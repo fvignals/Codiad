@@ -13,8 +13,11 @@ For more information on the project please check out the **[check out the Wiki](
 PHP and js script have a long carrier.
 Use it on local or remote private server.
 
-## Todo
-* Stress test under php 8.2
+## Working
+* Stress test under php 8.3, 8.2, 8.1, 8.0.
+
+## Todo:
+* Stress test under php 8.4
 * config.php working on all server
 * better error message
 * new theme
